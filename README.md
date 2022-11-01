@@ -1,12 +1,11 @@
-![SITE]()
-
 ## Layout Web
-
 ![Web 1](/src/assets/hamburgueria.jpg)
 
 ## Layout Mobile
-
 ![Mobile 1](/src/assets/bukenzie1.jpg) ![Mobile 2](/src/assets/bukenzie2.jpg)
+
+## Layout mobile
+![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
 # Sobre o projeto
 
