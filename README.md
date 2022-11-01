@@ -1,11 +1,12 @@
-![SITE]() 
+![SITE]()
+
 ## Layout Web
+
 ![Web 1](/src/assets/hamburgueria.jpg)
 
 ## Layout Mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
-
+![Mobile 1](/src/assets/bukenzie1.jpg) ![Mobile 2](/src/assets/bukenzie2.jpg)
 
 # Sobre o projeto
 
@@ -18,7 +19,9 @@ Projeto Front-End Web e Mobile de uma empresa de FastFood com as seguintes funci
 - regra de negócio: é possivel adicionar apenas 1x cada produto no carrinho
 
 # Tecnologias utilizadas
+
 ## Front end
+
 - React
 - useState
 - useEffect
