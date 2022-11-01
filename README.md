@@ -4,7 +4,6 @@
 ## Layout Mobile
 
 ![Mobile 1](/src/assets/bukenzie1.jpg) 
-![Mobile 2](/src/assets/bukenzie2.jpg)
 
 # Sobre o projeto
 
