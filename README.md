@@ -24,6 +24,6 @@ Projeto Front-End Web e Mobile de uma empresa de FastFood com as seguintes funci
 - useEffect
 - props
 - StyledComponents
-- Toastify
+- Toastify;
 
 ### Link GithubPages:: https://s2-12-jeanmbiz.vercel.app/
