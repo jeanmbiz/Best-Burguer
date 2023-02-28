@@ -5,7 +5,6 @@ import 'react-toastify/dist/ReactToastify.min.css'
 
 
 
-
 const App = () => (
   <div>
     <Dashboard />
